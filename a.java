@@ -1,7 +1,7 @@
-public class a
-{
-	public static void main(String args[])
-	{
-		System.out.println("hello kartik");
-	}
+package com.example;
+
+public class MainClass {
+    public static void main(String[] args) {
+        System.out.println("Hello, Jenkins!");
+    }
 }
